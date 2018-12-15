@@ -1,0 +1,22 @@
+{
+  "name": "checking",
+  "version": "1.0.0",
+  "description": "for practising",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/farhan3725/farhan-nabeel_practise.git"
+  },
+  "keywords": [
+    "2"
+  ],
+  "author": "farhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "generator": "^1.0.1"
+  }
+}
